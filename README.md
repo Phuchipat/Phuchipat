@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/zJrSPHc)](https://gsonic.net)
+[![MasterHead](https://imgur.com/zJrSPHc.jpeg)](https://gsonic.net)
 <h1 align="center">Hi 👋, I'm Phuchipat.</h1>
 <h3 align="center">A passionate FullStack Developer from Thailand</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
